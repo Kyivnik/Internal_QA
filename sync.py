@@ -56,3 +56,5 @@ if __name__ == "__main__":
     log_file = sys.argv[4]
 
     sync_folders(source_folder, replica_folder, log_file)
+    
+    
